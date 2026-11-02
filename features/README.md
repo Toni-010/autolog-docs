@@ -1,3 +1,3 @@
 # Функции
 
-* [Учёт заправок](features/refueling/)
+* [Учёт заправок](/features/refueling/)
