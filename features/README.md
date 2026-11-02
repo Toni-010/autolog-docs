@@ -1,3 +1,3 @@
 # Функции
 
-*   [Учёт заправок](refueling/README.md)
+* [Учёт заправок](features/refueling/)
