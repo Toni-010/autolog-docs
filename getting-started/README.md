@@ -2,6 +2,6 @@
 
 Чтобы начать, добавьте автомобиль.
 
-[![Добавление авто](../images/placeholder.png)](getting-started/add-car)
+[![Добавление авто](../images/placeholder.png)](/getting-started/add-car)
 
 *Нажмите на картинку, чтобы открыть инструкцию.*
